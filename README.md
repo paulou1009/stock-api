@@ -4,8 +4,8 @@
 
 	## /price GET
    		query parameters: s - stock symbol
-                     st - start time of returned stock price
-		     et - end time of returned stock price
+                st - start time of returned stock price
+		et - end time of returned stock price
 
 # Instruction
 
